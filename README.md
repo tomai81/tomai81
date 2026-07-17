@@ -17,7 +17,7 @@ My job is to keep the interesting parts interesting and the production parts bor
 
 ### Off the clock
 
-Rock music, and a motorbike that gets more preventive maintenance than most production clusters. Both are louder than my alerting, and neither has ever paged me at 3am.
+Rock music, and a motorbike that gets more preventive maintenance than most production clusters. Both are louder than my alerting, and neither has ever woken me at 3am.
 
 ---
 
